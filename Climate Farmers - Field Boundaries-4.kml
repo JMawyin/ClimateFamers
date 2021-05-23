@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Climate Farmers - Field Boundaries</name>
+    <description/>
+    <Style id="poly-000000-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-000000-2000-77-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-000000-2000-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-000000-2000-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-2000-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-2000-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF0000-1000-0-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FF0000-1000-0-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>1.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000000ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FF0000-1000-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF0000-1000-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF0000-1000-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>2. Dobimar von Niebelschuetz</name>
+      <Placemark>
+        <name>Dobimar - Field Boundaries / Feldgrenzen</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                11.5323838,53.7051405,0
+                11.5303658,53.7013212,0
+                11.5337239,53.7007559,0
+                11.5330158,53.6984376,0
+                11.5423499,53.6976944,0
+                11.5427254,53.6978214,0
+                11.5430687,53.6989711,0
+                11.5417813,53.6990664,0
+                11.5413306,53.6990854,0
+                11.5409551,53.6991299,0
+                11.5408478,53.6993205,0
+                11.5408157,53.6996063,0
+                11.541041,53.6998413,0
+                11.5414808,53.7000064,0
+                11.542028,53.70007,0
+                11.5426288,53.7000382,0
+                11.543573,53.6999302,0
+                11.5441201,53.6997841,0
+                11.5443884,53.6997397,0
+                11.5475748,53.6995047,0
+                11.5488945,53.6994221,0
+                11.549388,53.6997524,0
+                11.5496348,53.7001843,0
+                11.5498064,53.7013275,0
+                11.5469204,53.7015435,0
+                11.5467916,53.7016261,0
+                11.5466843,53.7019119,0
+                11.5465878,53.7022675,0
+                11.5465985,53.7025025,0
+                11.5468023,53.702655,0
+                11.5469955,53.7027693,0
+                11.5470384,53.703017,0
+                11.546974,53.7031885,0
+                11.5468453,53.7033727,0
+                11.546577,53.7035505,0
+                11.5461693,53.7036966,0
+                11.5458904,53.7038172,0
+                11.5455793,53.7038553,0
+                11.542661,53.704084,0
+                11.5424357,53.7040586,0
+                11.5419207,53.7039442,0
+                11.5416847,53.7038426,0
+                11.5415238,53.7037918,0
+                11.5414057,53.7038363,0
+                11.5413092,53.7039379,0
+                11.5409122,53.7044206,0
+                11.5407191,53.704573,0
+                11.540408,53.7046683,0
+                11.5343998,53.7050858,0
+                11.5340914,53.7050128,0
+                11.5323838,53.7051405,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>3. CF field</name>
+      <Placemark>
+        <name><![CDATA["Dorfwiese"]]></name>
+        <styleUrl>#poly-000000-2000-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                7.337082,50.855468,0
+                7.337283,50.855086,0
+                7.338268,50.85529,0
+                7.33837,50.855723,0
+                7.338372,50.855756,0
+                7.338332,50.855793,0
+                7.338256,50.855784,0
+                7.337082,50.855468,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["Birnbaumwiese"]]></name>
+        <styleUrl>#poly-000000-2000-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                7.338471,50.855664,0
+                7.338415,50.855439,0
+                7.33892,50.855377,0
+                7.338977,50.855586,0
+                7.338471,50.855664,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["Kitty-Wiese"]]></name>
+        <styleUrl>#poly-000000-2000-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                7.339157,50.854083,0
+                7.339333,50.854021,0
+                7.339597,50.853997,0
+                7.340539,50.854032,0
+                7.34038,50.854484,0
+                7.340204,50.854404,0
+                7.339679,50.854251,0
+                7.339157,50.854083,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>4. Ackerpulco</name>
+      <Placemark>
+        <name>Ackerpulco -field boundaries</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.2786816,52.3804155,0
+                14.278172,52.378143,0
+                14.2787889,52.3779956,0
+                14.2799851,52.3787553,0
+                14.2808435,52.37998,0
+                14.2786816,52.3804155,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>5. Martins Farm</name>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139938.00000000000<br>SNAR_BEZEI: HUTWEIDE<br>SL_FLAECHE: 0.95908334000<br>ID: 1902092<br>FS_KENNUNG: 67139938.00000000000<br>SNAR_BEZEI: HUTWEIDE<br>SL_FLAECHE: 0.95908334000<br>ID: 1902092]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139938.00000000000
+SNAR_BEZEI: HUTWEIDE
+SL_FLAECHE: 0.95908334000
+ID: 1902092</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139938.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>HUTWEIDE</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>0.95908334000</value>
+          </Data>
+          <Data name="ID">
+            <value>1902092</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.75448,47.888208,0
+                13.754614,47.8877,0
+                13.754526,47.887455,0
+                13.754944,47.887242,0
+                13.755262,47.887032,0
+                13.755433,47.886854,0
+                13.755474,47.886679,0
+                13.755479,47.88663,0
+                13.755837,47.886622,0
+                13.755935,47.886634,0
+                13.756139,47.886715,0
+                13.756118,47.88674,0
+                13.75604,47.886916,0
+                13.755932,47.887169,0
+                13.755716,47.887584,0
+                13.755504,47.887579,0
+                13.755277,47.887625,0
+                13.755069,47.887684,0
+                13.754984,47.887965,0
+                13.754948,47.888093,0
+                13.754887,47.8883,0
+                13.754869,47.888341,0
+                13.75448,47.888208,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139927.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN<br>SL_FLAECHE: 2.32905740000<br>ID: 1902093<br>FS_KENNUNG: 67139927.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN<br>SL_FLAECHE: 2.32905740000<br>ID: 1902093]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139927.00000000000
+SNAR_BEZEI: MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN
+SL_FLAECHE: 2.32905740000
+ID: 1902093</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139927.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>2.32905740000</value>
+          </Data>
+          <Data name="ID">
+            <value>1902093</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.76067,47.8894,0
+                13.760718,47.889069,0
+                13.760735,47.888745,0
+                13.760723,47.888416,0
+                13.761081,47.888407,0
+                13.761089,47.888675,0
+                13.761172,47.888721,0
+                13.761527,47.888719,0
+                13.761576,47.888675,0
+                13.761648,47.88867,0
+                13.761713,47.888802,0
+                13.761821,47.888967,0
+                13.762013,47.889151,0
+                13.762084,47.889206,0
+                13.76236,47.889316,0
+                13.76266,47.88939,0
+                13.76288,47.889412,0
+                13.763066,47.889411,0
+                13.763296,47.889338,0
+                13.76404,47.88932,0
+                13.764019,47.889406,0
+                13.763783,47.889878,0
+                13.763618,47.890105,0
+                13.763432,47.890334,0
+                13.76332,47.890496,0
+                13.763293,47.890503,0
+                13.762765,47.890234,0
+                13.762008,47.88989,0
+                13.761572,47.889698,0
+                13.76092,47.889464,0
+                13.76067,47.8894,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139931.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE ZWEI NUTZUNGEN<br>SL_FLAECHE: 0.03493578000<br>ID: 1902097<br>FS_KENNUNG: 67139931.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE ZWEI NUTZUNGEN<br>SL_FLAECHE: 0.03493578000<br>ID: 1902097]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139931.00000000000
+SNAR_BEZEI: MÄHWIESE/-WEIDE ZWEI NUTZUNGEN
+SL_FLAECHE: 0.03493578000
+ID: 1902097</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139931.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>MÄHWIESE/-WEIDE ZWEI NUTZUNGEN</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>0.03493578000</value>
+          </Data>
+          <Data name="ID">
+            <value>1902097</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.759456,47.88944,0
+                13.759603,47.889469,0
+                13.759596,47.88948,0
+                13.759559,47.889524,0
+                13.759456,47.889603,0
+                13.759451,47.889609,0
+                13.759203,47.889601,0
+                13.75932,47.889472,0
+                13.759379,47.889449,0
+                13.759456,47.88944,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139932.00000000000<br>SNAR_BEZEI: SONSTIGE GRÜNLANDFLÄCHEN<br>SL_FLAECHE: 0.04350825000<br>ID: 1902098<br>FS_KENNUNG: 67139932.00000000000<br>SNAR_BEZEI: SONSTIGE GRÜNLANDFLÄCHEN<br>SL_FLAECHE: 0.04350825000<br>ID: 1902098]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139932.00000000000
+SNAR_BEZEI: SONSTIGE GRÜNLANDFLÄCHEN
+SL_FLAECHE: 0.04350825000
+ID: 1902098</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139932.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>SONSTIGE GRÜNLANDFLÄCHEN</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>0.04350825000</value>
+          </Data>
+          <Data name="ID">
+            <value>1902098</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.758233,47.89023,0
+                13.758353,47.890335,0
+                13.75835,47.890337,0
+                13.758324,47.890339,0
+                13.758306,47.89035,0
+                13.758298,47.890369,0
+                13.758257,47.890394,0
+                13.758284,47.890432,0
+                13.75832,47.890442,0
+                13.75837,47.890529,0
+                13.758314,47.890532,0
+                13.758103,47.890523,0
+                13.758106,47.890399,0
+                13.758148,47.890292,0
+                13.758233,47.89023,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139933.00000000000<br>SNAR_BEZEI: SONSTIGE GRÜNLANDFLÄCHEN<br>SL_FLAECHE: 0.13452779000<br>ID: 1902099<br>FS_KENNUNG: 67139933.00000000000<br>SNAR_BEZEI: SONSTIGE GRÜNLANDFLÄCHEN<br>SL_FLAECHE: 0.13452779000<br>ID: 1902099]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139933.00000000000
+SNAR_BEZEI: SONSTIGE GRÜNLANDFLÄCHEN
+SL_FLAECHE: 0.13452779000
+ID: 1902099</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139933.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>SONSTIGE GRÜNLANDFLÄCHEN</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>0.13452779000</value>
+          </Data>
+          <Data name="ID">
+            <value>1902099</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.760191,47.88921,0
+                13.760537,47.889244,0
+                13.760524,47.889319,0
+                13.760496,47.88953,0
+                13.760469,47.889584,0
+                13.760452,47.889656,0
+                13.760411,47.88966,0
+                13.7603,47.889641,0
+                13.760088,47.88957,0
+                13.760024,47.889535,0
+                13.760123,47.889361,0
+                13.760191,47.88921,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139934.00000000000<br>SNAR_BEZEI: WECHSELWIESE (EGART, ACKERWEIDE)<br>SL_FLAECHE: 1.12434986000<br>ID: 1902100<br>FS_KENNUNG: 67139934.00000000000<br>SNAR_BEZEI: WECHSELWIESE (EGART, ACKERWEIDE)<br>SL_FLAECHE: 1.12434986000<br>ID: 1902100]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139934.00000000000
+SNAR_BEZEI: WECHSELWIESE (EGART, ACKERWEIDE)
+SL_FLAECHE: 1.12434986000
+ID: 1902100</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139934.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>WECHSELWIESE (EGART, ACKERWEIDE)</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>1.12434986000</value>
+          </Data>
+          <Data name="ID">
+            <value>1902100</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.760549,47.889909,0
+                13.760601,47.889719,0
+                13.76067,47.8894,0
+                13.76092,47.889464,0
+                13.761572,47.889698,0
+                13.762008,47.88989,0
+                13.762765,47.890234,0
+                13.763293,47.890503,0
+                13.763256,47.890554,0
+                13.76313,47.890682,0
+                13.762999,47.890785,0
+                13.761581,47.890283,0
+                13.760549,47.889909,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139931.00000000000<br>SNAR_BEZEI: DAUERWEIDE<br>SL_FLAECHE: 0.04507210000<br>ID: 1902105<br>FS_KENNUNG: 67139931.00000000000<br>SNAR_BEZEI: DAUERWEIDE<br>SL_FLAECHE: 0.04507210000<br>ID: 1902105]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139931.00000000000
+SNAR_BEZEI: DAUERWEIDE
+SL_FLAECHE: 0.04507210000
+ID: 1902105</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139931.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>DAUERWEIDE</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>0.04507210000</value>
+          </Data>
+          <Data name="ID">
+            <value>1902105</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.759203,47.889601,0
+                13.759451,47.889609,0
+                13.759266,47.889786,0
+                13.7592,47.889878,0
+                13.759176,47.889914,0
+                13.759099,47.889904,0
+                13.759118,47.889824,0
+                13.75913,47.889743,0
+                13.75915,47.889605,0
+                13.759203,47.889601,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139932.00000000000<br>SNAR_BEZEI: DAUERWEIDE<br>SL_FLAECHE: 0.36878612000<br>ID: 1902452<br>FS_KENNUNG: 67139932.00000000000<br>SNAR_BEZEI: DAUERWEIDE<br>SL_FLAECHE: 0.36878612000<br>ID: 1902452]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139932.00000000000
+SNAR_BEZEI: DAUERWEIDE
+SL_FLAECHE: 0.36878612000
+ID: 1902452</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139932.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>DAUERWEIDE</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>0.36878612000</value>
+          </Data>
+          <Data name="ID">
+            <value>1902452</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.758222,47.889914,0
+                13.758303,47.889925,0
+                13.75835,47.889954,0
+                13.75831,47.889996,0
+                13.758299,47.890114,0
+                13.758567,47.89014,0
+                13.758609,47.890144,0
+                13.758626,47.890147,0
+                13.758546,47.89022,0
+                13.758353,47.890335,0
+                13.758233,47.89023,0
+                13.758148,47.890292,0
+                13.758106,47.890399,0
+                13.758103,47.890523,0
+                13.757623,47.890471,0
+                13.757263,47.890393,0
+                13.757263,47.890348,0
+                13.757307,47.890293,0
+                13.757345,47.890233,0
+                13.757368,47.890176,0
+                13.757431,47.890138,0
+                13.757581,47.890107,0
+                13.757832,47.890012,0
+                13.758,47.889968,0
+                13.758101,47.889943,0
+                13.758222,47.889914,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139933.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN<br>SL_FLAECHE: 0.14253739000<br>ID: 1907514<br>FS_KENNUNG: 67139933.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN<br>SL_FLAECHE: 0.14253739000<br>ID: 1907514]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139933.00000000000
+SNAR_BEZEI: MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN
+SL_FLAECHE: 0.14253739000
+ID: 1907514</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139933.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>0.14253739000</value>
+          </Data>
+          <Data name="ID">
+            <value>1907514</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.760583,47.888475,0
+                13.760591,47.888684,0
+                13.760575,47.889008,0
+                13.760537,47.889244,0
+                13.760191,47.88921,0
+                13.760203,47.889183,0
+                13.760291,47.888954,0
+                13.76038,47.888724,0
+                13.760583,47.888475,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139938.00000000000<br>SNAR_BEZEI: SONSTIGE GRÜNLANDFLÄCHEN<br>SL_FLAECHE: 0.12904687000<br>ID: 1907516<br>FS_KENNUNG: 67139938.00000000000<br>SNAR_BEZEI: SONSTIGE GRÜNLANDFLÄCHEN<br>SL_FLAECHE: 0.12904687000<br>ID: 1907516]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139938.00000000000
+SNAR_BEZEI: SONSTIGE GRÜNLANDFLÄCHEN
+SL_FLAECHE: 0.12904687000
+ID: 1907516</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139938.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>SONSTIGE GRÜNLANDFLÄCHEN</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>0.12904687000</value>
+          </Data>
+          <Data name="ID">
+            <value>1907516</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.758271,47.889679,0
+                13.75824,47.889872,0
+                13.758189,47.889893,0
+                13.757947,47.889937,0
+                13.757858,47.88997,0
+                13.7577,47.89002,0
+                13.757508,47.890075,0
+                13.757409,47.890086,0
+                13.757275,47.890092,0
+                13.757194,47.890088,0
+                13.757108,47.890062,0
+                13.758271,47.889679,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139938.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE ZWEI NUTZUNGEN<br>SL_FLAECHE: 0.03737444000<br>ID: 1907517<br>FS_KENNUNG: 67139938.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE ZWEI NUTZUNGEN<br>SL_FLAECHE: 0.03737444000<br>ID: 1907517]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139938.00000000000
+SNAR_BEZEI: MÄHWIESE/-WEIDE ZWEI NUTZUNGEN
+SL_FLAECHE: 0.03737444000
+ID: 1907517</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139938.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>MÄHWIESE/-WEIDE ZWEI NUTZUNGEN</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>0.03737444000</value>
+          </Data>
+          <Data name="ID">
+            <value>1907517</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.756933,47.886826,0
+                13.757299,47.886895,0
+                13.757316,47.8869,0
+                13.757234,47.886997,0
+                13.756879,47.886936,0
+                13.756898,47.886827,0
+                13.756933,47.886826,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: description: <br>FS_KENNUNG: 67139938.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN<br>SL_FLAECHE: 10.39329815000<br>ID: 1907518<br>FS_KENNUNG: 67139938.00000000000<br>SNAR_BEZEI: MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN<br>SL_FLAECHE: 10.39329815000<br>ID: 1907518]]></description>
+        <styleUrl>#poly-FF0000-1000-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>description: 
+FS_KENNUNG: 67139938.00000000000
+SNAR_BEZEI: MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN
+SL_FLAECHE: 10.39329815000
+ID: 1907518</value>
+          </Data>
+          <Data name="FS_KENNUNG">
+            <value>67139938.00000000000</value>
+          </Data>
+          <Data name="SNAR_BEZEI">
+            <value>MÄHWIESE/-WEIDE DREI UND MEHR NUTZUNGEN</value>
+          </Data>
+          <Data name="SL_FLAECHE">
+            <value>10.39329815000</value>
+          </Data>
+          <Data name="ID">
+            <value>1907518</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.756898,47.886827,0
+                13.756879,47.886936,0
+                13.757234,47.886997,0
+                13.757316,47.8869,0
+                13.75841,47.887207,0
+                13.759841,47.887077,0
+                13.760023,47.887879,0
+                13.760036,47.888009,0
+                13.760044,47.888111,0
+                13.760044,47.888587,0
+                13.759956,47.888862,0
+                13.759903,47.888975,0
+                13.759787,47.889208,0
+                13.759624,47.88944,0
+                13.759602,47.889435,0
+                13.759287,47.889333,0
+                13.759111,47.889295,0
+                13.758989,47.889281,0
+                13.758863,47.889276,0
+                13.758824,47.889282,0
+                13.758786,47.88924,0
+                13.75874,47.889241,0
+                13.758695,47.889312,0
+                13.758579,47.889307,0
+                13.758559,47.889353,0
+                13.75843,47.889345,0
+                13.758391,47.889341,0
+                13.758377,47.889472,0
+                13.758303,47.889472,0
+                13.758271,47.889679,0
+                13.757108,47.890062,0
+                13.756992,47.890026,0
+                13.756859,47.889965,0
+                13.756715,47.889892,0
+                13.75661,47.889836,0
+                13.756537,47.889792,0
+                13.756422,47.889718,0
+                13.756301,47.889627,0
+                13.756216,47.889566,0
+                13.756139,47.889532,0
+                13.755801,47.889449,0
+                13.755524,47.889348,0
+                13.755432,47.889328,0
+                13.755297,47.889309,0
+                13.755223,47.88931,0
+                13.754782,47.889321,0
+                13.754664,47.889339,0
+                13.754651,47.889289,0
+                13.75456,47.889252,0
+                13.754468,47.889241,0
+                13.754425,47.889315,0
+                13.754358,47.889307,0
+                13.754378,47.889123,0
+                13.754627,47.888702,0
+                13.754754,47.888559,0
+                13.754869,47.888341,0
+                13.754887,47.8883,0
+                13.754948,47.888093,0
+                13.754984,47.887965,0
+                13.755069,47.887684,0
+                13.755277,47.887625,0
+                13.755504,47.887579,0
+                13.755716,47.887584,0
+                13.755932,47.887169,0
+                13.75604,47.886916,0
+                13.756118,47.88674,0
+                13.756389,47.886841,0
+                13.756898,47.886827,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <innerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.756961,47.888697,0
+                13.757027,47.888753,0
+                13.757092,47.888805,0
+                13.757152,47.888853,0
+                13.757266,47.88895,0
+                13.757412,47.889067,0
+                13.757513,47.889134,0
+                13.757642,47.889209,0
+                13.757718,47.88926,0
+                13.7577,47.889274,0
+                13.757665,47.889256,0
+                13.757663,47.889255,0
+                13.757574,47.889205,0
+                13.757445,47.889128,0
+                13.757342,47.88905,0
+                13.757228,47.888954,0
+                13.75713,47.888873,0
+                13.757074,47.888822,0
+                13.757013,47.888768,0
+                13.756945,47.88871,0
+                13.756961,47.888697,0
+              </coordinates>
+            </LinearRing>
+          </innerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>
