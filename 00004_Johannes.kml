@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Äcker ANG</name>
+    <description/>
+    <Style id="poly-000000-1200-77-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-000000-1200-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-000000-1200-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Unbenannte Ebene</name>
+      <Placemark>
+        <name>Acker 1
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.6962518,48.2615184,0
+                16.6853943,48.2712598,0
+                16.6794291,48.2695745,0
+                16.6888703,48.2612041,0
+                16.6962518,48.2615184,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Acker 2
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.6801586,48.2516321,0
+                16.6808023,48.2564326,0
+                16.6796436,48.2564612,0
+                16.6793003,48.2539323,0
+                16.6790857,48.2512321,0
+                16.6800298,48.2512606,0
+                16.6801586,48.2516321,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Acker 3
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.6716783,48.2692152,0
+                16.6713565,48.2683868,0
+                16.6771286,48.2632303,0
+                16.6786735,48.2630732,0
+                16.6716783,48.2692152,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Acker 5
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.7123714,48.2857945,0
+                16.7117491,48.2853804,0
+                16.7127147,48.2846094,0
+                16.7123714,48.2857945,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Acker 4
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.7130745,48.2837423,0
+                16.7167223,48.2861554,0
+                16.7158641,48.2867109,0
+                16.7191257,48.2885671,0
+                16.7180742,48.2894107,0
+                16.7126025,48.2858412,0
+                16.7130745,48.2837423,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Acker 6
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.7162517,48.2520363,0
+                16.7158655,48.2463209,0
+                16.7172602,48.2463924,0
+                16.7174962,48.252022,0
+                16.7162517,48.2520363,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Acker 7
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.7256214,48.2724035,0
+                16.7241194,48.2729463,0
+                16.7205789,48.269647,0
+                16.7204072,48.26909,0
+                16.7198493,48.2682902,0
+                16.7193558,48.2685044,0
+                16.7185833,48.2677903,0
+                16.7198922,48.2671475,0
+                16.7256214,48.2724035,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Acker 8
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.7095354,48.2633051,0
+                16.708763,48.2518762,0
+                16.7100504,48.2518762,0
+                16.7109517,48.2636479,0
+                16.7095354,48.2633051,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Acker 9
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.6784599,48.2565519,0
+                16.6791251,48.2628947,0
+                16.6781166,48.2629804,0
+                16.6775372,48.256609,0
+                16.6784599,48.2565519,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Wald 2
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.7205789,48.269647,0
+                16.7199995,48.2693757,0
+                16.719227,48.2685473,0
+                16.7198493,48.2682902,0
+                16.7204072,48.26909,0
+                16.7205789,48.269647,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Wald 1
+</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                16.7167223,48.2861554,0
+                16.7173875,48.2865266,0
+                16.7168082,48.2868264,0
+                16.7193187,48.2884398,0
+                16.7191257,48.2885671,0
+                16.7158641,48.2867109,0
+                16.7167223,48.2861554,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
