@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>JAMZ World Farms</name>
+	<gx:CascadingStyle kml:id="__managed_style_25E124FCE71B4305B4C4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_11BA9D95071B4305B4C4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_005ECE30AA1B4305B4C4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_11BA9D95071B4305B4C4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_25E124FCE71B4305B4C4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="05E3A58BB41B4305B4C3">
+		<name>Iowa Farm</name>
+		<LookAt>
+			<longitude>-92.91617733759436</longitude>
+			<latitude>41.90403669644872</latitude>
+			<altitude>304.0139451562707</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8618.314786629055</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-92.94174745735326,41.92040059355677,299.202198732165 -92.94198904671578,41.89930632202179,312.4574642198834 -92.9024344810832,41.89836016193715,314.6200318890848 -92.90281228214107,41.92005543854195,299.6294623708412 -92.94174745735326,41.92040059355677,299.202198732165 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="04782594BF1B4310686E">
+		<name>Ecuador Farm</name>
+		<LookAt>
+			<longitude>-79.67833590908701</longitude>
+			<latitude>-2.106358888078848</latitude>
+			<altitude>5.317619503866267</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2705.027212268324</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-79.68064222783089,-2.100725760608826,6.58678149998031 -79.68546167878827,-2.106636927354446,5.350308859541419 -79.67993676511438,-2.110148171974252,6.585142526541404 -79.67487777396587,-2.105322144075848,7.621959724400417 -79.68064222783089,-2.100725760608826,6.58678149998031 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0DF43B43F31B431259E9">
+		<name>Spain Farm</name>
+		<LookAt>
+			<longitude>-5.957993822770006</longitude>
+			<latitude>39.37296143710599</latitude>
+			<altitude>477.4917091376405</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1924.265487710364</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-5.958980444648732,39.37043673785269,476.6987572045401 -5.958555538450964,39.37098806945269,477.6852380506441 -5.957869052285361,39.37160626711698,478.5554107762532 -5.956759163501283,39.37249385192912,479.460985032764 -5.958180354353615,39.37710919549536,485.1417556237856 -5.960549916709585,39.37574207939269,479.9562982361376 -5.958980444648732,39.37043673785269,476.6987572045401 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0C582FF4DB1B43152B84">
+		<name>Madagascar Farm</name>
+		<LookAt>
+			<longitude>46.20504729014426</longitude>
+			<latitude>-24.87964012519709</latitude>
+			<altitude>52.3220625755316</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3101.233625080786</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						46.19930030485934,-24.87778573529076,59.0318604969076 46.20535608564821,-24.88246478275525,49.85675450320575 46.20933769764574,-24.87830890743664,48.6211277489474 46.20338531607288,-24.87360111422443,53.56660285959061 46.19930030485934,-24.87778573529076,59.0318604969076 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="054A4906E91B4315DA5E">
+		<name>Israel Farm</name>
+		<LookAt>
+			<longitude>34.7845566573457</longitude>
+			<latitude>31.94603121676288</latitude>
+			<altitude>58.76274609948017</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>899.1962905536641</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						34.78255244414598,31.94558902510234,53.56049566259935 34.78593998387232,31.94541069453539,64.5167223218274 34.78696331622846,31.94742335240566,60.95972414598817 34.78366961490734,31.94758419261344,53.73869468589144 34.78255244414598,31.94558902510234,53.56049566259935 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="01EE501A211B43168874">
+		<name>Egypt Farm</name>
+		<LookAt>
+			<longitude>31.05096145118576</longitude>
+			<latitude>30.75317193502379</latitude>
+			<altitude>6.961993853916864</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1378.449154396949</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						31.04773322830255,30.75252100612322,6.892254698246381 31.05292239691228,30.75149025326652,7.452437715843249 31.05330408018657,30.75479027547081,6.865668356447177 31.04823425136905,30.75582540996483,4.966081364439045 31.04773322830255,30.75252100612322,6.892254698246381 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E57A06F6A1B431875B5">
+		<name>England Farm</name>
+		<LookAt>
+			<longitude>-0.4437404424710112</longitude>
+			<latitude>50.85906828095986</latitude>
+			<altitude>46.8734305765413</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2064.46381950489</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-0.4478606327062817,50.86243214343866,71.04681298403344 -0.4487416202268468,50.85711509783805,37.48337805576828 -0.4369181717758186,50.85744245803926,45.62670681804553 -0.4375064669797102,50.86234711091916,78.02915362683945 -0.444798208081203,50.86210449567926,57.68054433277793 -0.4455990390591147,50.86244494096906,63.30876503067057 -0.4478606327062817,50.86243214343866,71.04681298403344 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0AE659EF9D1B43194514">
+		<name>Ukraine Farm</name>
+		<LookAt>
+			<longitude>32.94376163778827</longitude>
+			<latitude>48.5501051587196</latitude>
+			<altitude>160.3345790194572</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>6283.035552268848</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						32.93399818739928,48.56327102346209,151.3881424910802 32.93769279966726,48.54004340781994,163.8468499965882 32.95981411267714,48.54176745982778,145.1437990043588 32.95762825529027,48.5559582338703,158.5868063571686 32.95356047782523,48.55592569565149,159.1087146109169 32.93399818739928,48.56327102346209,151.3881424910802 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
