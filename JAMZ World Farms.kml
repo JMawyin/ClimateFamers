@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document>
+<Document id="1OXxFVFn3Uc5t25ByMgFpKjrvESWh03eF">
 	<name>JAMZ World Farms</name>
-	<gx:CascadingStyle kml:id="__managed_style_25E124FCE71B4305B4C4">
+	<gx:CascadingStyle kml:id="__managed_style_124E9881CA1B709FAA50">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_27CCA4B1251B709FAA50">
 		<Style>
 			<IconStyle>
 				<scale>1.2</scale>
@@ -21,40 +42,17 @@
 				<color>40ffffff</color>
 			</PolyStyle>
 			<BalloonStyle>
-				<displayMode>hide</displayMode>
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_11BA9D95071B4305B4C4">
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-				<displayMode>hide</displayMode>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_005ECE30AA1B4305B4C4">
+	<StyleMap id="__managed_style_0B21D3C9851B709FAA50">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_11BA9D95071B4305B4C4</styleUrl>
+			<styleUrl>#__managed_style_124E9881CA1B709FAA50</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_25E124FCE71B4305B4C4</styleUrl>
+			<styleUrl>#__managed_style_27CCA4B1251B709FAA50</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Placemark id="05E3A58BB41B4305B4C3">
@@ -69,7 +67,7 @@
 			<range>8618.314786629055</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -92,7 +90,7 @@
 			<range>2705.027212268324</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -115,7 +113,7 @@
 			<range>1924.265487710364</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -138,7 +136,7 @@
 			<range>3101.233625080786</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -161,7 +159,7 @@
 			<range>899.1962905536641</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -184,7 +182,7 @@
 			<range>1378.449154396949</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -207,7 +205,7 @@
 			<range>2064.46381950489</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -230,12 +228,311 @@
 			<range>6283.035552268848</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_005ECE30AA1B4305B4C4</styleUrl>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
 					<coordinates>
 						32.93399818739928,48.56327102346209,151.3881424910802 32.93769279966726,48.54004340781994,163.8468499965882 32.95981411267714,48.54176745982778,145.1437990043588 32.95762825529027,48.5559582338703,158.5868063571686 32.95356047782523,48.55592569565149,159.1087146109169 32.93399818739928,48.56327102346209,151.3881424910802 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E2311D24D1B5B744033">
+		<name>Anchorage GreenArea</name>
+		<LookAt>
+			<longitude>-150.0972326856262</longitude>
+			<latitude>61.29470334121422</latitude>
+			<altitude>22.65756319795494</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2615.533680199587</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-150.0928490132001,61.29453455893344,22.6570016009312 -150.0989755989988,61.29200943172707,21.42113004601145 -150.0957147290951,61.29052406234956,21.42258080613954 -150.0887466679608,61.29318467305472,22.65890126294767 -150.0928490132001,61.29453455893344,22.6570016009312 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0E284653641B5B75385F">
+		<name>LI Sound Area</name>
+		<LookAt>
+			<longitude>-72.93184087762424</longitude>
+			<latitude>41.07072784037773</latitude>
+			<altitude>1.595212256906249</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10336.38382107834</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-72.93198236452521,41.06472729058304,1.604335472965763 -72.93092131416753,41.05656633654394,1.616593525827161 -72.92137188741007,41.056992503866,1.612246905451133 -72.92377604313666,41.06531371628601,1.609190788174029 -72.93198236452521,41.06472729058304,1.604335472965763 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="08B6C6A45B1B5B763308">
+		<name>LI Farm 1</name>
+		<LookAt>
+			<longitude>-72.49127714934696</longitude>
+			<latitude>41.04261226209995</latitude>
+			<altitude>14.64682599671026</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1276.330320404959</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-72.49475640750001,41.04331920430441,16.50174770068264 -72.48719774244644,41.03964398927977,14.18819792951186 -72.48619874702456,41.04067719647625,13.41103587744021 -72.49399374672409,41.04424275795833,14.3107283668407 -72.49475640750001,41.04331920430441,16.50174770068264 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="08FAA49FF11B5B770112">
+		<name>LI Farm 2</name>
+		<LookAt>
+			<longitude>-72.65909213626787</longitude>
+			<latitude>40.96357637287782</latitude>
+			<altitude>19.02667517770167</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3903.116632383317</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-72.66596575217761,40.96678483921742,23.71170620163361 -72.66178726698143,40.96237738643682,17.19141916317123 -72.65781215436623,40.96443215248546,19.9674301809388 -72.66034455400107,40.96686614977923,22.91999554328258 -72.66596575217761,40.96678483921742,23.71170620163361 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="098B6CB3641B5B78749A">
+		<name>France Farm</name>
+		<LookAt>
+			<longitude>4.95777434366421</longitude>
+			<latitude>46.34084164080686</latitude>
+			<altitude>189.3651109051089</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2148.242868096277</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						4.951308283979046,46.34373399216339,185.9818912705636 4.951083300118684,46.34221275867322,185.9817604339771 4.952515307665606,46.34181301124091,186.1667308642205 4.952658757857591,46.34139125572687,185.6044792557833 4.953656047925139,46.34134688586246,185.551357926751 4.954090577702159,46.34010305810168,185.6054108031683 4.955490500198705,46.34009212556428,185.9908785332534 4.961423794865867,46.33904904480918,186.8302263263122 4.961840512716074,46.33940467080706,187.5218449066124 4.962948194140917,46.33948263227884,188.0593388948936 4.963303172759637,46.34131170405018,193.7909357219227 4.963741275449003,46.34228267552309,197.6432652439988 4.965110704266207,46.34326908853904,204.191328691567 4.964792360537588,46.34411711436947,204.0357343604969 4.963724652450585,46.34456917695684,203.7104036620273 4.96345045326275,46.3440609450611,204.8162636803463 4.962524832233606,46.34389534440942,205.1907033816206 4.962446437045125,46.34351095073195,204.5755933240191 4.960214709585252,46.34343468363115,203.9759282802158 4.959786842282183,46.34229159366063,200.9669600643161 4.959084780332748,46.34220413922596,199.7925993654867 4.956621327733936,46.34251650969969,195.3639380003884 4.955320042433882,46.34323909564315,191.7731958470783 4.95436941975097,46.34341941981937,189.1349736543624 4.951308283979046,46.34373399216339,185.9818912705636 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="04F903BC661B5B799865">
+		<name>France Farm 2</name>
+		<LookAt>
+			<longitude>1.897055337093345</longitude>
+			<latitude>47.43849657577378</latitude>
+			<altitude>127.0742503266362</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1574.519963470521</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						1.896021604336131,47.44141921761996,126.249298026802 1.895130638924503,47.44072178042276,125.0176766924578 1.892632850724629,47.43803722620444,126.4793592430264 1.892983366730709,47.43774497760577,127.2454448357993 1.899050153898865,47.43820801156392,126.56345879308 1.898908191912159,47.44060825949163,124.7304953832078 1.897247596328977,47.4413451166998,126.7670012367713 1.896021604336131,47.44141921761996,126.249298026802 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0815BDE36B1B5B7A916C">
+		<name>Ireland Farm</name>
+		<LookAt>
+			<longitude>-8.341649065919608</longitude>
+			<latitude>52.58936281322642</latitude>
+			<altitude>42.64007752295872</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1816.261212268146</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-8.342790737162961,52.59093270659248,42.63951645501348 -8.340740052495097,52.58541716700838,44.89575632978293 -8.337674053487977,52.58534220251335,44.89562175286614 -8.339982833518794,52.59118575798298,42.63979427498315 -8.342790737162961,52.59093270659248,42.63951645501348 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="09E6485AD91B5EDD6D64">
+		<name>Ireland Farm 2</name>
+		<LookAt>
+			<longitude>-8.436784059042751</longitude>
+			<latitude>52.55803979754143</latitude>
+			<altitude>121.334344457555</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1406.761333698087</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-8.43901925236805,52.55985278258064,120.0231738703656 -8.43863668429317,52.55818148066613,120.0226818598965 -8.439485297091293,52.55799253442444,120.0229141494075 -8.439089935087466,52.556162055228,120.5377733431634 -8.432926241160335,52.55640445678739,116.6256446824858 -8.433321561853834,52.55952925670422,116.7063613399702 -8.434390272191441,52.55933133299094,118.1154687855461 -8.435158216185316,52.55952603520298,119.7960287212269 -8.43624686926605,52.55957471047819,121.8214359847321 -8.437166109461982,52.55974909417817,121.6493587392124 -8.438158506187738,52.55989620786082,120.1644997874912 -8.43901925236805,52.55985278258064,120.0231738703656 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="07B49E638A1B5EE03D65">
+		<name>Poland Farm 1</name>
+		<LookAt>
+			<longitude>23.78078912148727</longitude>
+			<latitude>53.43939170229646</latitude>
+			<altitude>185.6798412681996</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3788.53696471313</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						23.77763287014576,53.44715541363303,179.8298248207201 23.77035550615958,53.43417895131034,198.3477001822974 23.77450100529708,53.43343081100189,193.2595964472578 23.77478998122833,53.43115913527839,189.4381133971685 23.78883733465308,53.4314356484948,181.6529924142933 23.79269394405008,53.43105416263568,177.443498597084 23.79690591207935,53.43938084028952,185.3043566779106 23.78401005320093,53.44196597711964,180.5797301814585 23.78299178207591,53.4443945668559,179.7845307723986 23.77763287014576,53.44715541363303,179.8298248207201 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="02DB4C54761B5EE2822F">
+		<name>Germany Farm 1</name>
+		<LookAt>
+			<longitude>10.97363773865495</longitude>
+			<latitude>51.1343972182062</latitude>
+			<altitude>163.1062030017586</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3179.320996952592</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						10.97431710317299,51.13901225476805,165.4727662986805 10.96972384086816,51.13558416719599,169.6943839851065 10.97003632703536,51.13383218760152,169.0205252629501 10.96699095631089,51.13301489163287,172.7963530172736 10.96753862796358,51.13069226251125,172.7955526629664 10.9834314728757,51.13180170235329,149.5126157697147 10.98256520278278,51.13888623656926,149.9378797774162 10.97515413088795,51.13862128381372,163.5831710347989 10.97431710317299,51.13901225476805,165.4727662986805 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0486E4AB441B5EE314F6">
+		<name>Germany Farm 2</name>
+		<LookAt>
+			<longitude>11.09524358222629</longitude>
+			<latitude>52.11093109672613</latitude>
+			<altitude>134.3907968366919</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3602.63704250101</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						11.08437105268947,52.11301134313042,152.9150022617984 11.08502980210652,52.11205008032353,151.4800512440528 11.08983740001703,52.10906680354811,142.5219051333157 11.08986615019427,52.10839832005791,141.4985350413218 11.10460340487485,52.10762852759889,131.8890472815725 11.10384255856461,52.1091177152161,133.4970066904627 11.10330243880352,52.11227972421443,131.5613710762531 11.08437105268947,52.11301134313042,152.9150022617984 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="08CEF7A45B1B5EE9F39E">
+		<name>California Farm 1</name>
+		<LookAt>
+			<longitude>-123.1017774672952</longitude>
+			<latitude>44.33483062348424</latitude>
+			<altitude>90.50992062756458</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4518.664720288944</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-123.0974084542165,44.34505502756761,90.73271616010194 -123.0974093433973,44.33439918865199,90.73379009750684 -123.0961382870931,44.33143793001889,90.73377244693877 -123.0941503616125,44.32710083260699,90.72910579348488 -123.087604165781,44.32712640942917,92.48965540308204 -123.0876268000852,44.34500780467634,90.73133389442 -123.0974084542165,44.34505502756761,90.73271616010194 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F32DF49981B5EEF7349">
+		<name>California Farm 2</name>
+		<LookAt>
+			<longitude>-121.7157581397852</longitude>
+			<latitude>42.01772151012494</latitude>
+			<altitude>1243.621466164097</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2723.299875341182</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B21D3C9851B709FAA50</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-121.7174427858379,42.01325625017781,1242.385578552918 -121.7128245202595,42.01336921175449,1242.6873621685 -121.7128062608809,42.02096169718561,1243.6215913817 -121.7130144041046,42.02106010419084,1243.621418927572 -121.7129008226421,42.02191760890389,1243.621734007966 -121.7144343325446,42.02412067648883,1245.332922385778 -121.7172818044815,42.02431656005682,1244.936042617745 -121.7174427858379,42.01325625017781,1242.385578552918 
 					</coordinates>
 				</LinearRing>
 			</outerBoundaryIs>
